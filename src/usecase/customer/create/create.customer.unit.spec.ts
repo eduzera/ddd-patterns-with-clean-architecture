@@ -48,6 +48,6 @@ describe('Unit test for Create Customer UseCase', () => {
     input.name = '';
     const usecase = new CreateCustomerUseCase(repository);
 
-    await expect(usecase.execute(input)).rejects.toThrow('Name is required');
+    await expect(usecase.execute(input)).rejects.toThrowError('customer: Name is required');
   })
 })
