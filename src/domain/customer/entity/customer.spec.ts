@@ -17,7 +17,7 @@ describe('Customer', () => {
   it('should throw error when name and id is empty', () => {
     expect(() => {
       let customer = new Customer('', '');
-    }).toThrowError("customer: Name is required, customer: Id is required");
+    }).toThrowError("customer: Id is required, customer: Name is required");
   })
 
   it('should change name', () => {
