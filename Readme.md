@@ -1,18 +1,18 @@
-# DDD Patterns
+# DDD Patterns with Clean Architecture
 
 ## Introduction
 
-Welcome to the **"DDD Patterns"** project. This project serves as a study case, applying the principles of Domain-Driven Design (DDD) to a simple solution encompassing three core concepts: Customers, Products, and Orders.
+Welcome to the "DDD Patterns with Clean Architecture" project. This initiative represents a study case where we combine the best practices from Domain-Driven Design (DDD) with principles of Clean Architecture.
 
-My purpose here is to dissect the intricacies of DDD by providing a practical example. We dive into the implementation of domains and infrastructural aspects, offering an environment where both the theory and practice of DDD come to life. This way, you can gain insights into how these elements interplay in a real-world application.
+The aim is to showcase how these strategies can work together to create a robust, maintainable, and scalable software system. By exploring key concepts of DDD and Clean Architecture, this project serves as a practical guide for developers who aspire to improve their software design skills.
 
-By exploring **"DDD Patterns"**, you will have the chance to understand the powerful design benefits that DDD brings to software development. We hope that this will be a valuable resource for developers at all levels of familiarity with DDD, from novices to veterans.
+Stay tuned as we navigate through the intricacies of these powerful software design methodologies. Your questions, suggestions, and contributions are always welcome!
 
-Please, feel free to navigate through the project, inspect the code, and let us know if you have any questions, suggestions or feedback. All are welcome!
+![clean_architecture](clean_architecture.jpeg)
 
 ## Stack
 
-In the **"DDD Patterns"** project, we have utilized a combination of technologies to achieve our goals. These choices were made to ensure that our project is robust, scalable, and maintainable. Here's a brief overview of our technology stack:
+In the **"DDD Patterns with Clean Architecture"** project, we have utilized a combination of technologies to achieve our goals. These choices were made to ensure that our project is robust, scalable, and maintainable. Here's a brief overview of our technology stack:
 
 ### TypeScript
 
@@ -32,7 +32,7 @@ However, for the purposes of this study case, we are utilizing Sequelize with an
 ### Jest
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 
-Testing is a critical aspect of any application, helping to ensure the correctness of our codebase and improving its maintainability. For this reason, we've integrated Jest as our testing framework of choice in the **"DDD Patterns"** project.
+Testing is a critical aspect of any application, helping to ensure the correctness of our codebase and improving its maintainability. For this reason, we've integrated Jest as our testing framework of choice in the **"DDD Patterns with Clean Architecture"** project.
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It provides a comprehensive set of features, such as a simple API for structuring your tests, snapshots for capturing and comparing UI changes, an easy setup and teardown mechanism for tests, and seamless parallelization of test runs.
 
@@ -44,4 +44,4 @@ Using Jest, we're able to write unit tests for our individual components and int
 
 ## Conclusion
 
-Thank you for your interest in the **"DDD Patterns"** project. We appreciate your time and attention, and warmly invite your suggestions or constructive criticism. Feel free to raise issues, submit pull requests, or just share your thoughts. Your contribution helps us improve and learn. Once again, thank you, and happy exploring!
+Thank you for your interest in the **"DDD Patterns with Clean Architecture"** project. We appreciate your time and attention, and warmly invite your suggestions or constructive criticism. Feel free to raise issues, submit pull requests, or just share your thoughts. Your contribution helps us improve and learn. Once again, thank you, and happy exploring!
